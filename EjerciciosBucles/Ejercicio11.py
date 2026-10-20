@@ -7,7 +7,7 @@ detenerse al encontrar el primero'''
 Multiplo = False
 primerMultiplo = 0
 
-for i in range(80,200):
+for i in range(81,200):
     if Multiplo == False:
         if i % 7 == 0:
             primerMultiplo = i
