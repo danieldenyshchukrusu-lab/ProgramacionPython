@@ -30,21 +30,21 @@ while opcion != "SALIR":
             numero1 = float(input("Primer numero para resta"))
             numero2 = float(input("Segundo numero para resta"))
             resta = numero1 + numero2
-            print(resta)
+            print("El resultado es: " ,resta)
 
         elif opcion == "MULTIPLICACION":
 
             numero1 = float(input("Primer numero para multiplicar"))
             numero2 = float(input("Segundo numero para multiplicar"))
             multiplicacion = numero1 * numero2
-            print(multiplicacion)
+            print("El resultado es: " ,multiplicacion)
 
         elif opcion == "DIVISION":
 
             numero1 = float(input("Primer numero para division"))
             numero2 = float(input("Segundo numero para division"))
             division = numero1 / numero2
-            print(division)
+            print("El resultado es: " ,division)
 
         elif opcion == "SALIR":
 

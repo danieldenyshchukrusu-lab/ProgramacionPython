@@ -20,7 +20,5 @@ while adivinado != numero:
 
     except ValueError:
         print("introduce un numero valido")
-
 else:
-
     print("Has adivinado el numero")
