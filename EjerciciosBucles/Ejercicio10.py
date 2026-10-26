@@ -4,6 +4,7 @@ número de años, y muestre por pantalla el capital obtenido en la inversión ca
 dura la inversión.
 '''
 
+
 cantidadInvertir = float(input("Introduce una cantidad a invertir"))
 InteresAnual = float(input("Introduce el interes anual"))
 numA = int(input("Introduce el numero de años"))
